@@ -1,10 +1,10 @@
+import os
+import cv2
 import torch
 import argparse
 import numpy as np
-import os
-import cv2
-from core import models
 from PIL import Image
+from core import models
 import matplotlib.pyplot as plt
 
 
